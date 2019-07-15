@@ -1,4 +1,4 @@
-# PollockPredation
-Spatiotemporal variation in consumption of Walleye Pollock (Gadus chalcogrammus) by major groundfish predators in the Gulf of Alaska
+# PollockPredation - Forthcoming
+Development of a predation index for Walleye Pollock (Gadus chalcogrammus) to assess trophic stability in the Gulf of Alaska
 
 data sources and script files - forthcoming
