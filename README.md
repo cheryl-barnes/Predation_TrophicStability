@@ -6,6 +6,8 @@ This repository details the methods used to calculate indices of predation for W
 ## File Structure
 Input data (survey and food habits), shapefiles, and model outputs can all be found in Folder 1 ('1_Data' folder). Folders 2 through 5 contain species-specific analyses for each component of the predation index (resulting estimates are stored in the data folder). Folder 6 contains predation indices (all predators combined) for each of the spatial scales of interest: basin, the area encompassed by the stock assessment for Gulf of Alaska pollock, subregion, and statistical area. Script files in Folder 6 also include variance ratio calculations, which enabled estimates of synchrony and portfolio effects. Specific analyses that resulted in publication tables and figures are noted throughout. 
 
+All analyses were conducted using R v3.6 (R Core Team 2018).
+
 ## Data Sources
 <b>Total Predator Biomass</b>: Total biomass estimates were obtained from the most recent stock assessment for each groundfish predator (Barbeaux et al. 2017, Dorn et al. 2017, Hanselman et al. 2017, Spies et al. 2017, Stewart and Hicks 2017). Coast-wide estimates for Pacific Halibut were adjusted to reflect biomass in the Gulf of Alaska.
 
@@ -46,4 +48,5 @@ The authors would like to acknowledge Terry Quinn for offering his insight and e
 &#8212; Holsman, K. K., K. Aydin, J. Sullivan, T. Hurst, and G. Kruse. 2019. Climate effects and bottom-up controls on growth and size-at-age of Pacific halibut (Hippoglossus stenolepis) in Alaska (USA). Fisheries Oceanography 28:345–358. <br>
 ### Miscellaneous
 &#8212; Brodziak, J. 2012. Fitting length-weight relationships with linear regression using the log-transformed allometric model with bias-correction. NOAA Technical Memorandum PIFSC-H-12-03. <br>
-&#8212; Chipps, S. R., and J. E. Garvey. 2007. Assessment of diets and feeding patterns. In: Analysis and interpretation of freshwater fisheries data. C. S. Guy and M. L. Brown, editors. Bethesda, MD. American Fisheries Society 473–514. 
+&#8212; Chipps, S. R., and J. E. Garvey. 2007. Assessment of diets and feeding patterns. In: Analysis and interpretation of freshwater fisheries data. C. S. Guy and M. L. Brown, editors. Bethesda, MD. American Fisheries Society 473–514. <br>
+&#8212; R Core Team. 2018. R: a language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. https://www.R-project.org/.
