@@ -30,22 +30,22 @@ The authors would like to acknowledge Terry Quinn for offering his insight and e
 &#8212; Dorn, M., K. Aydin, B. Fissel, D. Jones, A. McCarthy, W. Palsson, and K. Spalinger K. 2017. Assessment of the Walleye Pollock stock in the Gulf of Alaska. North Pacific Fishery Management Council Gulf of Alaska SAFE Report 47–182. <br>
 &#8212; Hanselman, D. H., C. J. Rodgveller, C. R. Lunsford, and K. H. Fenske. 2017. Assessment of the Sablefish stock in Alaska. North Pacific Fishery Management Council Bering Sea, Aleutian Islands, and Gulf of Alaska SAFE Report 327–502. <br>
 &#8212; Spies, I., K. Aydin, J. N. Ianelli, and W. Palsson. 2017. Assessment of the Arrowtooth Flounder stock in the Gulf of Alaska. North Pacific Fishery Management Council Gulf of Alaska SAFE Report 749–846. <br>
-&#8212; Stewart, I., and A. Hicks. 2017. Assessment of the Pacific halibut (Hippoglossus stenolepis) stock at the end of 2017. International Pacific Halibut Commission IPHC-2018-AM094-10. <br>
+&#8212; Stewart, I., and A. Hicks. 2017. Assessment of the Pacific halibut (<i>Hippoglossus stenolepis</i>) stock at the end of 2017. International Pacific Halibut Commission IPHC-2018-AM094-10. <br>
 ### Survey and Food Habits Data
 &#8212; Clark, W. G., and S. R. Hare. 2006. Assessment and management of Pacific halibut: data, methods, and policy. IPHC Scientific Report 83. <br> 
 &#8212; Livingston, P. A., K. Aydin, T. W. Buckley, G. M. Lang, M-S. Yang, and B. S. Miller. 2017. Quantifying food web interactions in the North Pacific – a data-based approach. Environmental Biology of Fishes. 100(4):443–470. <br>
 &#8212; Sigler, M. F., and H. H. Zenger, Jr. 1989. Assessment of Gulf of Alaska Sablefish and other groundfish based on the domestic longline survey, 1987. NOAA Technical Memorandum NMFS-AFSC Report 169. <br>
 &#8212; von Szalay, P. G., and N. W. Raring. 2016. Data report: 2015 Gulf of Alaska bottom trawl survey. Seattle, WA. NOAA Technical Memorandum NMFS-AFSC-325. <br>
 ### Species Distribution Modeling
-&#8212; Barnes, C. L., A. H. Beaudreau, M. E. Hunsicker, and L. Ciannelli (2018). Assessing the potential for competition between Pacific Halibut (Hippoglossus stenolepis) and Arrowtooth Flounder (Atheresthes stomias) in the Gulf of Alaska. PLoS ONE 13(12):e0209402. <br>
+&#8212; Barnes, C. L., A. H. Beaudreau, M. E. Hunsicker, and L. Ciannelli (2018). Assessing the potential for competition between Pacific Halibut (<i>Hippoglossus stenolepis</i>) and Arrowtooth Flounder (<i>Atheresthes stomias</i>) in the Gulf of Alaska. PLoS ONE 13(12):e0209402. <br>
 &#8212; Hunsicker, M. E., L. Ciannelli, K. M. Bailey, S. Zador, and L. Stige. 2013. Climate and demography dictate the strength of predator-prey overlap in a subarctic marine ecosystem. PLoS ONE 8(6):e66025. <br>
-&#8212; Shelton, A. O., M. E. Hunsicker, E. J. Ward, B. E. Feist, R. Blake, C. L. Ward, et al. 2017. Spatio-temporal models reveal subtle changes to demersal communities following the Exxon Valdez oil spill. ICES Journal of Marince Science doi:10.1093/icesjms/fsx079. <br>
+&#8212; Shelton, A. O., M. E. Hunsicker, E. J. Ward, B. E. Feist, R. Blake, C. L. Ward, et al. 2017. Spatio-temporal models reveal subtle changes to demersal communities following the Exxon Valdez oil spill. ICES Journal of Marine Science doi:10.1093/icesjms/fsx079. <br>
 ### Bioenergetics
 &#8212; Armstrong JB and Schindler DE. 2011. Excess digestive capacity in predators reflects a life of feast and famine. Nature. 476:84–87. <br>
-&#8212; Beaudreau, A. H., and T. E. Essington. 2009. Development of a new field-based approach for estimating consumption rates of fishes and comparison with a bioenergetics model for lingcod (Ophiodon elongatus). Canadian Journal of Fisheries and Aquatic Sciences 66:565−578. <br>
+&#8212; Beaudreau, A. H., and T. E. Essington. 2009. Development of a new field-based approach for estimating consumption rates of fishes and comparison with a bioenergetics model for lingcod (<i>Ophiodon elongatus</i>). Canadian Journal of Fisheries and Aquatic Sciences 66:565−578. <br>
 &#8212; Harvey, C. J. 2009. Effects of temperature change on demersal fisheries in the California Current: a bioenergetics approach. Canadian Journal of Fisheries and Aquatic Sciences 66:1449–1461. <br>
 &#8212; Holsman, K. K., and K. Aydin. 2015. Comparative methods for evaluating climate change impacts on the foraging ecology of Alaskan groundfish. Marine Ecology Progress Series 521:217–235. <br>
-&#8212; Holsman, K. K., K. Aydin, J. Sullivan, T. Hurst, and G. Kruse. 2019. Climate effects and bottom-up controls on growth and size-at-age of Pacific halibut (Hippoglossus stenolepis) in Alaska (USA). Fisheries Oceanography 28:345–358. <br>
+&#8212; Holsman, K. K., K. Aydin, J. Sullivan, T. Hurst, and G. Kruse. 2019. Climate effects and bottom-up controls on growth and size-at-age of Pacific halibut (<i>Hippoglossus stenolepis</i>) in Alaska (USA). Fisheries Oceanography 28:345–358. <br>
 ### Miscellaneous
 &#8212; Brodziak, J. 2012. Fitting length-weight relationships with linear regression using the log-transformed allometric model with bias-correction. NOAA Technical Memorandum PIFSC-H-12-03. <br>
 &#8212; Chipps, S. R., and J. E. Garvey. 2007. Assessment of diets and feeding patterns. In: Analysis and interpretation of freshwater fisheries data. C. S. Guy and M. L. Brown, editors. Bethesda, MD. American Fisheries Society 473–514. <br>
