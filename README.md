@@ -1,4 +1,4 @@
-<b> Citation</b>: Barnes, C. L., A. H. Beaudreau, M. W. Dorn, K. K. Holsman, and F. J. Mueter. 2020. Development of a predation index to assess trophic stability in the Gulf of Alaska. Ecological Applications. 
+## Citation: Barnes, C. L., A. H. Beaudreau, M. W. Dorn, K. K. Holsman, and F. J. Mueter. 2020. Development of a predation index to assess trophic stability in the Gulf of Alaska. Ecological Applications. 
 
 ## Overview
 This repository details the methods used to calculate indices of predation for Walleye Pollock (<i>Gadus chalcogrammus</i>) in the Gulf of Alaska (MT per year; 1990 to 2015). Pollock predators included: Arrowtooth Flounder (<i>Atheresthes stomias</i>), Pacific Cod (<i>Gadus macrocephalus</i>), Pacific Halibut (<i>Hippoglossus stenolepis</i>), Sablefish (<i>Anoplopoma fimbria</i>), and Walleye Pollock conspecifics. We used predation indices to estimate synchrony in pollock consumption and make inferences about trophic stability among demersal fishes in the Gulf of Alaska.
